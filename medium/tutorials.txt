@@ -16,3 +16,10 @@ https://medium.com/@bherbst/managing-the-fragment-back-stack-373e87e4ff62
 
 MVVM
 https://proandroiddev.com/a-look-at-mvvm-and-data-binding-with-simple-stack-9d0bab33f3ec
+
+
+https://www.infoq.com/br/presentations/principios-solid
+
+
+Fragment
+https://medium.com/@elye.project/puzzle-fragment-stack-pop-cause-issue-on-toolbar-8b947c5c07c6

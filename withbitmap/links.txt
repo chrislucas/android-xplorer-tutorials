@@ -1,0 +1,8 @@
+Failed to allocate a 37477452 byte allocation with 16777216 free bytes and 32MB until OOM
+ java.lang.OutOfMemoryError: Failed to allocate a 37477452 byte allocation with 16777216 free bytes and 32MB until OOM
+
+https://stackoverflow.com/questions/32244851/androidjava-lang-outofmemoryerror-failed-to-allocate-a-23970828-byte-allocatio/36735687
+
+
+
+https://stackoverflow.com/questions/32244851/androidjava-lang-outofmemoryerror-failed-to-allocate-a-23970828-byte-allocatio/36735687
