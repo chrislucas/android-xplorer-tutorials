@@ -1,0 +1,18 @@
+https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b
+https://medium.com/@ssaurel/develop-a-wifi-scanner-android-application-daa3b77feb73
+https://medium.com/google-developers/large-database-queries-on-android-cb043ae626e8
+
+
+Dagger 2
+https://android.jlelse.eu/dagger-2-c00f31decda5
+https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c
+https://proandroiddev.com/how-to-dagger-2-with-android-part-1-18b5b941453f
+
+
+Gerenciamento de fragments
+https://medium.com/@bherbst/managing-the-fragment-back-stack-373e87e4ff62
+
+
+
+MVVM
+https://proandroiddev.com/a-look-at-mvvm-and-data-binding-with-simple-stack-9d0bab33f3ec
