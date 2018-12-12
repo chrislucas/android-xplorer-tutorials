@@ -1,0 +1,4 @@
+https://developer.android.com/about/versions/pie/android-9.0?hl=pt-br
+
+
+https://developer.android.com/ndk/guides/neuralnetworks/?hl=pt-br

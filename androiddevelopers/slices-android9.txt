@@ -1,0 +1,5 @@
+https://developer.android.com/guide/slices/
+
+https://proandroiddev.com/android-jetpack-android-slices-introduction-cf0ce0f3e885
+
+https://codelabs.developers.google.com/codelabs/android-slices-basic/index.html?index=..%2F..index#0

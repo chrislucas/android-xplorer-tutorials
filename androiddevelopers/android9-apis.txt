@@ -1,0 +1,5 @@
+https://developer.android.com/guide/topics/connectivity/wifi-rtt
+
+https://www.metaltoad.com/blog/android-p-and-wi-fi-rtt
+
+https://source.android.com/devices/tech/connect/wifi-rtt
