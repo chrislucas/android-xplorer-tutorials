@@ -1,0 +1,3 @@
+https://antonioleiva.com/custom-views-android-kotlin/
+https://medium.com/@elye.project/building-custom-component-with-kotlin-fc082678b080
+https://medium.com/@rygel/stop-repeating-yourself-and-create-custom-views-on-android-with-kotlin-f5b3fc581c0e

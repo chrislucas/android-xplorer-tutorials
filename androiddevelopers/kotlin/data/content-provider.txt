@@ -1,0 +1,2 @@
+https://developer.android.com/guide/topics/providers/content-providers
+https://developer.android.com/reference/android/content/ContentProvider
